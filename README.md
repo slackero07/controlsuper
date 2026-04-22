@@ -1,11 +1,17 @@
 # controlsuper
 Aplicación para gestionar compras en supermercado. Permite agregar productos, calcular totales y llevar control de gastos.
 
-## Funciones
+## Funcionalidades
 - Agregar productos
-- Sumar importes
-- Llevar control de gastos
-- Visualizar lista de compras
+- Calcular totales
+- Control de gastos
+- Lista de compras
 
-## Proyecto
-Desarrollado en Android Studio.
+## Tecnologías
+- Android Studio
+- Kotlin / Java (según uses)
+
+## Cómo ejecutar
+1. Clonar el repositorio
+2. Abrir en Android Studio
+3. Ejecutar en emulador o dispositivo
